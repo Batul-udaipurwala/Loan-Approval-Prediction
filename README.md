@@ -1,4 +1,4 @@
-##Loan Approval Prediction
+## Loan Approval Prediction
 
 This project aims to build a predictive model that predicts loan approval status based on specified columns such as 'Dependents', 'ApplicantIncome', 'CoapplicantIncome', 'LoanAmount', 'Loan_Amount_Term', 'Credit_History', and 'Property_Area'.
 
